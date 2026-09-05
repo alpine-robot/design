@@ -1,7 +1,7 @@
 # ✍️ ALPINE Design
 
-<img width="1500"  alt="immagine" src="https://github.com/user-attachments/assets/27c4f510-e763-4caf-9bbf-84932cd6b805" />
-<img width="1500"  alt="immagine" src="https://github.com/user-attachments/assets/152977c9-6f12-4065-a5ad-6e98823b34e1" />
+<img width="1000"  alt="immagine" src="https://github.com/user-attachments/assets/27c4f510-e763-4caf-9bbf-84932cd6b805" />
+<img width="1000"  alt="immagine" src="https://github.com/user-attachments/assets/152977c9-6f12-4065-a5ad-6e98823b34e1" />
 
 
 
